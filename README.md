@@ -11,10 +11,10 @@
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a GitHub Developer Program Member at [Github](https://www.github.com/)"</code>
 
-### Where did I work earlier:question::woman_technologist:
-<code>* [iSmile Technologies](https://www.ismiletechnologies.com/) [Technical Writer]</code>  
-<code>* [Open Source Code](https://opensourcecode.tech/) [Content Writer]</code>      
-<code>* [BIT Summer of Code]( https://bitsoc.github.io/) [Mentee]</code>           
+### Where did I work earlier:question::AI_technologist:
+<code>* [BIT Summer Of Code](https://bitsoc.github.io/) [Mentee]</code>  
+<code>* [GitMemory](https://www.gitmemory.com/shivamkumar0611) [Coder]</code>      
+<code>* [Slack Workspace](https://join.slack.com/t/shivambitmesralive/signup?x=x-p1489045428502-1481035866583-1519622352624) [shivambitmesralive]</code>           
 <code>* [Team Srijan](https://www.linkedin.com/in/teamsrijan/?originalSubdomain=in) [Electrical Engineer Intern]</code> 
   
 ### What am I learning:question::point_down:	
