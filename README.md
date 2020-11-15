@@ -27,10 +27,10 @@
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
-- [Lithium Batteries](https://medium.com/lithium-batteries/lithium-batteries-6413ade5b6cd------2)
-- [Approximation: Filter specifications; Butterworth approximation](https://kumar-shivam0611.medium.com/approximation-butterworth-approximation-25ae1ad1ca1b------2)
-- [Shivam Kumar](https://kumar-shivam0611.medium.com/------2)
-- [Portfolio Website ](https://github.com/shivamkumar0611/shivamkumar0611.github.io------2)
+- [Lithium Batteries](https://medium.com/lithium-batteries/lithium-batteries)
+- [Approximation: Filter specifications; Butterworth approximation](https://kumar-shivam0611.medium.com/approximation-butterworth-approximation)
+- [Shivam Kumar](https://kumar-shivam0611.medium.com/)
+- [Portfolio Website ](https://github.com/shivamkumar0611/shivamkumar0611.github.io)
 <!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
@@ -39,6 +39,9 @@
 ### How to connect with me:question::email:
 :star: <code>[Mail](mailto:kumar.shivam0611@gmail.com)</code>    
 :star: <code>[Twitter](https://twitter.com/exorcist_shivam)</code>  
-:star: <code>[LinkedIn](https://www.linkedin.com/in/shivamkumar0611/)</code>  
+:star: <code>[LinkedIn](https://www.linkedin.com/in/shivamkumar0611/)</code>
+:star: <code>[HackerRank](https://www.hackerrank.com/kumar_shivam0611)</code>  
 :star: <code>[Medium](https://medium.com/@kumar-shivam0611)</code>  
-:star: <code>[CodePen](https://codepen.io/shivamkumar0611)</code>  
+:star: <code>[CodePen](https://codepen.io/shivamkumar0611)</code>
+:star: <code>[Facebook](https://www.facebook.com/profile.php?id=100040223462085)</code>
+:star: <code>[Instagram](https://www.instagram.com/exorcist_shivam/)</code>
