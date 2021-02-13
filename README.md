@@ -3,7 +3,8 @@
 </p>
  
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=shivamkumar0611 alt=shivamkumar0611/> <img alt="GitHub followers" src="https://img.shields.io/github/followers/shivamkumar0611?style=social">
+https://img.shields.io/badge/Linkedin-1780%20Follwers-red
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=shivamkumar0611 alt=shivamkumar0611/> <img alt="GitHub followers" src="https://img.shields.io/github/followers/shivamkumar0611?style=social"> 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/exorcist_shivam?label=Followers">
 
 [![Linkedin: shivamkumar0611](https://img.shields.io/badge/-shivamkumar0611-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamkumar0611/)](https://www.linkedin.com/in/shivamkumar0611/)
