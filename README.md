@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://github.com/shivamkumar0611/shivamkumar0611/blob/master/tenor%20(1).gif">
 </p>
-## <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hey I'm Shivam Kumar <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hey I'm Shivam Kumar <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2> :eyes
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
-</div>  <img src="https://camo.githubusercontent.com/9cd366b19f3c8e2e39453f6c8fd3138066ad145228a091d17357ae167f1a76b5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38612f61342f35392f38616134353935666232346236656435383564646461633436323262323434352e676966">
 <p align="left"> <img alt="Demo" src="https://img.shields.io/badge/Linkedin-1780%20Follwers-red" /> <img src=https://komarev.com/ghpvc/?username=shivamkumar0611 alt=shivamkumar0611/> <img alt="Demo" src="https://img.shields.io/badge/Instagram-1874%20Followers-blue" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/shivamkumar0611?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/exorcist_shivam?label=Followers"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=red&label=shivamkumar0611&logo=Linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivamkumar0611%2F">
   
   <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> *Fun fact about me: I love solving real-world problems using Technology* <img src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif" width="50">
