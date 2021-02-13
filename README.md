@@ -46,4 +46,6 @@
 :star: <code>[CodePen](https://codepen.io/shivamkumar0611)</code>
 :star: <code>[Facebook](https://www.facebook.com/profile.php?id=100040223462085)</code>
 :star: <code>[Instagram](https://www.instagram.com/exorcist_shivam/)</code>
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-Shivam Kumar-red)](https://github.com/shivamkumar0611)
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Shivam%20Kumar-red">
+</p>
