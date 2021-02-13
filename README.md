@@ -8,7 +8,7 @@ https://img.shields.io/badge/Linkedin-1780%20Follwers-red
  
 </div>
 <p align="left"> <img alt="Demo" src="https://img.shields.io/badge/Linkedin-1780%20Follwers-red" /> <img src=https://komarev.com/ghpvc/?username=shivamkumar0611 alt=shivamkumar0611/> <img alt="GitHub followers" src="https://img.shields.io/github/followers/shivamkumar0611?style=social"> 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/exorcist_shivam?label=Followers">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/exorcist_shivam?label=Followers"> <img alt="Demo" src="https://img.shields.io/badge/Instagram-1874%20Followers-blue" />
   [![Linkedin: shivamkumar0611](https://img.shields.io/badge/Linkedin-1780%20Follwers-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamkumar0611/)](https://www.linkedin.com/in/shivamkumar0611/)
 
 [![Linkedin: shivamkumar0611](https://img.shields.io/badge/-shivamkumar0611-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamkumar0611/)](https://www.linkedin.com/in/shivamkumar0611/)
