@@ -6,6 +6,8 @@
 </div>
 <p align="left"> <img alt="Demo" src="https://img.shields.io/badge/Linkedin-1780%20Follwers-red" /> <img src=https://komarev.com/ghpvc/?username=shivamkumar0611 alt=shivamkumar0611/> <img alt="Demo" src="https://img.shields.io/badge/Instagram-1874%20Followers-blue" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/shivamkumar0611?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/exorcist_shivam?label=Followers"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=red&label=shivamkumar0611&logo=Linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivamkumar0611%2F">
   
+  <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> *Fun fact about me: I love solving real-world problems using Technology* <img src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif" width="50">
+  
   
 ### Wanna stalk my website:question::point_right: [Click Here](https://shivamkumar0611.github.io/):sparkles:
 
