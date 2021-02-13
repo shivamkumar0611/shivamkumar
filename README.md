@@ -4,7 +4,7 @@
  
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 </div>
-<p align="left"> <img alt="Demo" src="https://img.shields.io/badge/Linkedin-1780%20Follwers-red" /> <img src=https://komarev.com/ghpvc/?username=shivamkumar0611 alt=shivamkumar0611/> <img alt="Demo" src="https://img.shields.io/badge/Instagram-1874%20Followers-blue" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/shivamkumar0611?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/exorcist_shivam?label=Followers"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=red&label=LinkedIn%20&logo=Linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivamkumar0611%2F">
+<p align="left"> <img alt="Demo" src="https://img.shields.io/badge/Linkedin-1780%20Follwers-red" /> <img src=https://komarev.com/ghpvc/?username=shivamkumar0611 alt=shivamkumar0611/> <img alt="Demo" src="https://img.shields.io/badge/Instagram-1874%20Followers-blue" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/shivamkumar0611?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/exorcist_shivam?label=Followers"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=red&label=shivamkumar0611&logo=Linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivamkumar0611%2F">
   
   
 ### Wanna stalk my website:question::point_right: [Click Here](https://shivamkumar0611.github.io/):sparkles:
