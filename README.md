@@ -3,9 +3,11 @@
 </p>
  
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/shivamkumar0611?style=social">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=shivamkumar0611 alt=shivamkumar0611/></p>
 [![Twitter: exorcist_shivam](https://img.shields.io/twitter/follow/HastagAB?style=social)](https://twitter.com/exorcist_shivam)
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/exorcist_shivam?label=Followers">
+
 [![Linkedin: shivamkumar0611](https://img.shields.io/badge/-hastagab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamkumar0611/)](https://www.linkedin.com/in/shivamkumar0611/)
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://shivamkumar0611.github.io/):sparkles:
